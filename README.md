@@ -1,1 +1,0 @@
-# java.kargah.prof.emadi
